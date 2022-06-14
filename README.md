@@ -1,6 +1,6 @@
 # Simply & Effortlessly create a Coda Schema for your API within seconds ⏱
 
-1. Call the API with a sample value
+1. Call your favorite API with a sample value, ideally one with an extensive response
 
       ```f.e. https://api.opensea.io/api/v1/collection/boredapeyachtclub```
 
