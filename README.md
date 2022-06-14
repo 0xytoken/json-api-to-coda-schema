@@ -8,7 +8,7 @@
 
 ***Et Voila!***
 
-### Now, you have an extensive coda schema tailored to your API. 
+#### Now, you have an extensive coda schema tailored to your API. 
 
 &nbsp;
 
